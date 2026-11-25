@@ -1,4 +1,4 @@
-# flashlight
+# Flashlight
 Flashlight app for Android 2.3 Gingerbread, using the old java APIs. No bloat, all free.
 
 ![icon](https://github.com/volegnar/flashlight/blob/main/app/src/main/res/drawable/icon.png?raw=true)
